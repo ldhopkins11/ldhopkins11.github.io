@@ -13,6 +13,7 @@ background-color:#45F0DF;  margin-left: auto;
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
+  display: inline;
 }
 
 .nav li {
